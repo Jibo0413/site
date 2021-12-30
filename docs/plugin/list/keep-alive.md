@@ -14,7 +14,7 @@ import Support from '../../../src/components/Support'
 ## Install
 
 ```bash
-$ npm i -save-dev build-plugin-keep-alive
+$ npm i --save-dev build-plugin-keep-alive
 ```
 
 ## Usage
